@@ -22,7 +22,18 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meomeocoj&show_icons=true&locale=en&layout=compact" alt="meomeocoj" /></p>
 
+- 📊 Weekly development by meomeocoj:
+<!--START_SECTION:waka-->
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meomeocoj&theme=dark&background=000004)
+```txt
+TypeScript    41 hrs 48 mins  ██████████████████████░░░   87.68 %
+JSON          2 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+CSS           1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+JavaScript    51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Solidity      38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+```
+
+<!--END_SECTION:waka-->
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=meomeocoj&theme=onedark)]()
