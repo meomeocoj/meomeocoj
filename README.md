@@ -35,5 +35,6 @@ Other        1 hr 17 mins    █▒░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+[![GitHub Streak](https://github-readme-streak-stats-74c61n9fv-meomeocojs-projects.vercel.app?user=meomeocoj&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=meomeocoj&theme=onedark)]()
