@@ -35,6 +35,6 @@ Solidity     59 mins         █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=meomeocoj&theme=dark&hide_border=true&exclude_days=Sun%2CSat)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=meomeocoj&theme=dark&hide_border=true)]
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=meomeocoj&theme=onedark)]()
