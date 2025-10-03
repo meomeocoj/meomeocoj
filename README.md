@@ -26,7 +26,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   0 secs          █████████████████████████   100.00 %
+confini   3 mins          ████████████████████████░   95.41 %
+Bash      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
 ```
 
 <!--END_SECTION:waka-->
