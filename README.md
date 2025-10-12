@@ -26,9 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown    3 mins          ██████████████████████░░░   88.14 %
-Bash        0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-gitignore   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Markdown   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
